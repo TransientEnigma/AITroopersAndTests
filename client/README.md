@@ -1,7 +1,7 @@
 # Starting up the Project
 
 Use npm start to start the website.
-If it does not start and there is an error swith to correct node version.
+If it does not start and there is an error switch to correct node version.
 
 - client$ nvm use 16
 - client$ node -v
